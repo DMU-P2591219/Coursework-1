@@ -1,0 +1,59 @@
+body {
+  background-image: url("https://wallpapercave.com/wp/wp2257271.png");
+}
+/* This is where define the background for the whole page */
+.topnav {
+  background-color: #29538E;
+  text-align: center;
+  overflow: hidden;
+}
+
+.topnav a {
+  float: center;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+/* This is where I define how the navigation menu on the top corner of the page looks for the viewer */
+
+h1 {
+  color: #f2f2f2;
+  text-align: center;
+  background-color: #29538E;
+}
+
+h2 {
+  color: #f2f2f2;
+  text-align: center;
+  background-color: #29538E;
+}
+/* In h1 and h2 I define where and how the text will appear on the screen*/
+img{
+height: 300px;
+width: 250px;
+}
+/* This is where I define what the image's formatting is ie. size etc */
+audio {
+    text-align: right;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+/* This is where I define where in the page the audio player will sit for the reader/listener */
+p {
+  color: #f2f2f2;
+  background-color: #29538E;
+  text-align: center;
+  width: 520px;
+  padding: 10px;
+  margin: 0 auto;
+}
+/* This is where I define how the text appears on the page */
+footer {
+  color: #f2f2f2;
+  text-align: center;
+  background-color: #29538E;
+}
+/* This is where i define what the footer's formatting will be and how it will look*/
